@@ -1,6 +1,6 @@
 # My contacts
 
-<div style="font-size:19px">
+<div style="font-size:25px">
 
 `📬️email`: yorkblansh@yandex.com
 \
