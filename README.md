@@ -2,7 +2,7 @@
 
 <div style="font-size:19px">
 
-`📬️email`: [yorkblansh@yandex.com](yorkblansh@yandex.com)
+`📬️email`: yorkblansh@yandex.com
 \
 `☎️telegram`: [t.me/yorkblansh1](https://t.me/yorkblansh1)
 \
