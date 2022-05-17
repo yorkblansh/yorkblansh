@@ -5,7 +5,7 @@
 <u>looking for job in web development**</u>
 
 - 🔭 I’m currently working on: [GitFlic-Api](https://www.npmjs.com/package/gitflic-api), [DoSomeLight Frontend App](https://github.com/DoSomeLight/my.dosomelight)<!-- - 🌱 I’m currently learning **RegEx** -->
-- 🤔 I’m looking for maintainers for [<u>`GitFlic-Api(see on gitflic.ru)`</u>](https://gitflic.ru/project/yorkblansh/gitflic-api)<!-- - 💬 Ask me about **Golang, ReactJS, Docker, Kubernetes, Helm** -->
+- 🤔 I’m looking for maintainers on[<u>`GitFlic-Api(see on gitflic.ru)`</u>](https://gitflic.ru/project/yorkblansh/gitflic-api)<!-- - 💬 Ask me about **Golang, ReactJS, Docker, Kubernetes, Helm** -->
 
 <h2 align="left" id="macropower-tech">👍 Favorite Tech</h2>
 
