@@ -9,19 +9,19 @@
 
 <h2 align="left" id="macropower-tech">👍 Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with:
+> Tools, languages, and other things that I like to work with
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://gitflic.ru/project/yorkblansh/yorkblansh/blob/raw?file=img%2Fjs.svg&commit=8b3309a08c8625a0b88bfc01ecf822338cf1dd23" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/ts.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://gitflic.ru/project/yorkblansh/yorkblansh/blob/raw?file=img%2Fts.png&commit=8b3309a08c8625a0b88bfc01ecf822338cf1dd23" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
@@ -51,7 +51,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react.svg" width="48" height="48" alt="React" />
+        <img src="https://gitflic.ru/project/yorkblansh/yorkblansh/blob/raw?file=img%2Freact.svg&commit=8b3309a08c8625a0b88bfc01ecf822338cf1dd23" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
@@ -63,7 +63,7 @@
     </td> -->
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
+        <img src="https://gitflic.ru/project/yorkblansh/yorkblansh/blob/raw?file=img%2Fsass.svg&commit=8b3309a08c8625a0b88bfc01ecf822338cf1dd23" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
