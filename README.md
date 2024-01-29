@@ -1,8 +1,4 @@
-<div style="font-size:25px">
-Hi 👋, my name is Oleg
-
-I am fullstack developer
-</div>
+## Hi 👋, my name is Oleg, I am fullstack developer
 
 ### My packages on npm: [widehook.js](https://www.npmjs.com/package/widehook), [detain.js](https://www.npmjs.com/package/detain)
 
