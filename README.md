@@ -1,10 +1,6 @@
 ## Hi 👋, my name is Oleg, I am fullstack developer
 
-### My packages on npm: [widehook.js](https://www.npmjs.com/package/widehook), [detain.js](https://www.npmjs.com/package/detain)
-
-<!-- me on twitter, github, mail -->
-
----
+## My packages on npm: [widehook.js](https://www.npmjs.com/package/widehook), [detain.js](https://www.npmjs.com/package/detain)
 
 <div style="font-size:20px">
 
